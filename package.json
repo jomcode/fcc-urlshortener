@@ -1,0 +1,19 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "[Details and Requirements](https://www.freecodecamp.com/challenges/url-shortener-microservice)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
