@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.13.4",
     "validator": "^5.2.0"
+  },
+  "engines": {
+    "node": ">= 4.4.1"
   }
 }
