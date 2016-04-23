@@ -3,17 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha",
-    "test:watch": "mocha -w"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
-  },
+  "devDependencies": {},
   "dependencies": {
     "express": "^4.13.4",
     "validator": "^5.2.0"
