@@ -1,10 +1,11 @@
 {
   "name": "urlshortener",
   "version": "1.0.0",
-  "description": "[Details and Requirements](https://www.freecodecamp.com/challenges/url-shortener-microservice)",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha",
+    "test:watch": "mocha -w"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "validator": "^5.2.0"
   }
 }
